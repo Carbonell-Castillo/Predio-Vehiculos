@@ -1,8 +1,10 @@
 # Proyecto de Predio de Vehículos
-Este proyecto está basado en la predicción de vehículos y almacena información sobre clientes, modelos de marcas y cantidad de cilindros en una base de datos. Además, tiene un menú para visualizar los vehículos asociados a cada cliente y un buscador para facilitar la búsqueda.
+Este proyecto está basado en un predio de vehículos el cual almacena información sobre clientes, modelos de marcas y cantidad de cilindros de los vehiculos en una base de datos. Además, tiene un menú para visualizar los vehículos asociados a cada cliente y un buscador para facilitar la búsqueda.
+
+El proyecto fue desarrollado en Visual Studio y en el lenguaje de programación VB.Net, lo que lo hace fácilmente escalable y mantenible.
 
 ## Funcionalidades
-- Almacenamiento de información de clientes, modelos de marcas y cantidad de cilindros en una base de datos.
+- Almacenamiento de información de clientes, Identificacion y NIT en una base de datos.
 - Asociación de vehículos a cada cliente.
 - Menú para visualizar los vehículos asociados a cada cliente.
 - Búsqueda de vehículos por medio de un buscador.
