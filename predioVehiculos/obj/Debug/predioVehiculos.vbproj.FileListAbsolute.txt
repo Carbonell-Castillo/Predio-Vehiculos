@@ -1,0 +1,58 @@
+C:\Users\bruce\source\repos\predioVehiculos\predioVehiculos\bin\Debug\PredioVehiculo.mdf
+C:\Users\bruce\source\repos\predioVehiculos\predioVehiculos\bin\Debug\PredioVehiculo_log.ldf
+C:\Users\bruce\source\repos\predioVehiculos\predioVehiculos\bin\Debug\predioVehiculos.exe.config
+C:\Users\bruce\source\repos\predioVehiculos\predioVehiculos\bin\Debug\predioVehiculos.exe
+C:\Users\bruce\source\repos\predioVehiculos\predioVehiculos\bin\Debug\predioVehiculos.pdb
+C:\Users\bruce\source\repos\predioVehiculos\predioVehiculos\bin\Debug\predioVehiculos.xml
+C:\Users\bruce\source\repos\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.vbprojAssemblyReference.cache
+C:\Users\bruce\source\repos\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.Form1.resources
+C:\Users\bruce\source\repos\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.FRMbuscarVehiculo.resources
+C:\Users\bruce\source\repos\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.FRMverClientes.resources
+C:\Users\bruce\source\repos\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.FRMverVehiculos.resources
+C:\Users\bruce\source\repos\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.Resources.resources
+C:\Users\bruce\source\repos\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.vbproj.GenerateResource.cache
+C:\Users\bruce\source\repos\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.vbproj.CoreCompileInputs.cache
+C:\Users\bruce\source\repos\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.exe
+C:\Users\bruce\source\repos\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.xml
+C:\Users\bruce\source\repos\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.pdb
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\bin\Debug\PredioVehiculo.mdf
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\bin\Debug\PredioVehiculo_log.ldf
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\bin\Debug\predioVehiculos.exe.config
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\bin\Debug\predioVehiculos.exe
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\bin\Debug\predioVehiculos.pdb
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\bin\Debug\predioVehiculos.xml
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.vbprojAssemblyReference.cache
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.Form1.resources
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.FRMverClientes.resources
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.FRMverVehiculos.resources
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.Resources.resources
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.vbproj.GenerateResource.cache
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.vbproj.CoreCompileInputs.cache
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.exe
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.xml
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.pdb
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.FRMbuscarVehiculoMarca.resources
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.FRMbuscarVehiculoModelo.resources
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.FRMbuscarVehiculoPropetario.resources
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\bin\Debug\PredioVehiculos.mdf
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\bin\Debug\PredioVehiculos_log.ldf
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\bin\Debug\predioVehiculos.exe.config
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\bin\Debug\predioVehiculos.exe
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\bin\Debug\predioVehiculos.pdb
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\bin\Debug\predioVehiculos.xml
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.vbprojAssemblyReference.cache
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.Form1.resources
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.FRMbuscarVehiculoMarca.resources
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.FRMbuscarVehiculoModelo.resources
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.FRMbuscarVehiculoPropetario.resources
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.FRMverClientes.resources
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.FRMverVehiculos.resources
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.Resources.resources
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.vbproj.GenerateResource.cache
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.vbproj.CoreCompileInputs.cache
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.exe
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.xml
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.pdb
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.FRMnuevoCliente.resources
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.FRMnuevoVehiculo.resources
+C:\Users\brand\Desktop\Bruce\5to BACO\Reparacion y Soporte\PredioFinalizado\predioVehiculos\predioVehiculos\obj\Debug\predioVehiculos.FRMnuevoVehiculoV2.resources
